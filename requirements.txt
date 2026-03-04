@@ -1,4 +1,4 @@
 flask
 pandas
-scikit-learn==1.3.0  # Ensure this version matches your training environment
+scikit-learn-intelex  # Often lighter Ensure this version matches your training environment
 numpy
