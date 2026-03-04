@@ -1,0 +1,6 @@
+venv/
+.env
+*.csv
+*.ipynb
+.git
+.vscode
